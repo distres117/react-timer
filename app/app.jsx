@@ -6,7 +6,6 @@ var React = require('react'),
     Timer = require('Timer');
 //Load Foundation
 
-require('style!css!foundation-sites/dist/foundation.min.css');
 $(document).foundation();
 
 require('style!css!sass!applicationStyles');
